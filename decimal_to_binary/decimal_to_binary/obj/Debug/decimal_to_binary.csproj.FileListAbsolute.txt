@@ -1,0 +1,7 @@
+C:\Users\jakub.vsetecka\source\repos\decimal_to_binary\decimal_to_binary\bin\Debug\decimal_to_binary.exe.config
+C:\Users\jakub.vsetecka\source\repos\decimal_to_binary\decimal_to_binary\bin\Debug\decimal_to_binary.exe
+C:\Users\jakub.vsetecka\source\repos\decimal_to_binary\decimal_to_binary\bin\Debug\decimal_to_binary.pdb
+C:\Users\jakub.vsetecka\source\repos\decimal_to_binary\decimal_to_binary\obj\Debug\decimal_to_binary.csprojAssemblyReference.cache
+C:\Users\jakub.vsetecka\source\repos\decimal_to_binary\decimal_to_binary\obj\Debug\decimal_to_binary.csproj.CoreCompileInputs.cache
+C:\Users\jakub.vsetecka\source\repos\decimal_to_binary\decimal_to_binary\obj\Debug\decimal_to_binary.exe
+C:\Users\jakub.vsetecka\source\repos\decimal_to_binary\decimal_to_binary\obj\Debug\decimal_to_binary.pdb
