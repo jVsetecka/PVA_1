@@ -1,0 +1,7 @@
+C:\Users\jakub.vsetecka\source\repos\opakovani\opakovani\bin\Debug\opakovani.exe.config
+C:\Users\jakub.vsetecka\source\repos\opakovani\opakovani\bin\Debug\opakovani.exe
+C:\Users\jakub.vsetecka\source\repos\opakovani\opakovani\bin\Debug\opakovani.pdb
+C:\Users\jakub.vsetecka\source\repos\opakovani\opakovani\obj\Debug\opakovani.csprojAssemblyReference.cache
+C:\Users\jakub.vsetecka\source\repos\opakovani\opakovani\obj\Debug\opakovani.csproj.CoreCompileInputs.cache
+C:\Users\jakub.vsetecka\source\repos\opakovani\opakovani\obj\Debug\opakovani.exe
+C:\Users\jakub.vsetecka\source\repos\opakovani\opakovani\obj\Debug\opakovani.pdb

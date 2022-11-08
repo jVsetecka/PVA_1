@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opakovani", "opakovani\opakovani.csproj", "{4DD3833E-10E4-455C-8EB3-E7F32121553E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DD3833E-10E4-455C-8EB3-E7F32121553E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DD3833E-10E4-455C-8EB3-E7F32121553E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DD3833E-10E4-455C-8EB3-E7F32121553E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DD3833E-10E4-455C-8EB3-E7F32121553E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {005CAFBD-0FB0-4103-90CF-E5DDB1A90804}
+	EndGlobalSection
+EndGlobal
