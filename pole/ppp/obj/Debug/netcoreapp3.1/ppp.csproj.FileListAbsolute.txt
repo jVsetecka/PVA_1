@@ -1,0 +1,14 @@
+C:\Users\jakub.vsetecka\Desktop\ppp\ppp\bin\Debug\netcoreapp3.1\ppp.exe
+C:\Users\jakub.vsetecka\Desktop\ppp\ppp\bin\Debug\netcoreapp3.1\ppp.deps.json
+C:\Users\jakub.vsetecka\Desktop\ppp\ppp\bin\Debug\netcoreapp3.1\ppp.runtimeconfig.json
+C:\Users\jakub.vsetecka\Desktop\ppp\ppp\bin\Debug\netcoreapp3.1\ppp.runtimeconfig.dev.json
+C:\Users\jakub.vsetecka\Desktop\ppp\ppp\bin\Debug\netcoreapp3.1\ppp.dll
+C:\Users\jakub.vsetecka\Desktop\ppp\ppp\bin\Debug\netcoreapp3.1\ppp.pdb
+C:\Users\jakub.vsetecka\Desktop\ppp\ppp\obj\Debug\netcoreapp3.1\ppp.csproj.AssemblyReference.cache
+C:\Users\jakub.vsetecka\Desktop\ppp\ppp\obj\Debug\netcoreapp3.1\ppp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub.vsetecka\Desktop\ppp\ppp\obj\Debug\netcoreapp3.1\ppp.AssemblyInfoInputs.cache
+C:\Users\jakub.vsetecka\Desktop\ppp\ppp\obj\Debug\netcoreapp3.1\ppp.AssemblyInfo.cs
+C:\Users\jakub.vsetecka\Desktop\ppp\ppp\obj\Debug\netcoreapp3.1\ppp.csproj.CoreCompileInputs.cache
+C:\Users\jakub.vsetecka\Desktop\ppp\ppp\obj\Debug\netcoreapp3.1\ppp.dll
+C:\Users\jakub.vsetecka\Desktop\ppp\ppp\obj\Debug\netcoreapp3.1\ppp.pdb
+C:\Users\jakub.vsetecka\Desktop\ppp\ppp\obj\Debug\netcoreapp3.1\ppp.genruntimeconfig.cache
