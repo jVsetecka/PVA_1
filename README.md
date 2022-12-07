@@ -6,10 +6,12 @@ Repository for students of PVA_1
 [leetcode.com](https://leetcode.com/)
 
 ### Yeetcodes
+#### Conditions, cycles
 [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 
 [Palindrome number](https://leetcode.com/problems/palindrome-number/)
 
+#### Arrays
 [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 
 [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
