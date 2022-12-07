@@ -13,3 +13,5 @@ Repository for students of PVA_1
 [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 
 [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
+
+[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)
