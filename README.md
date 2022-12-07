@@ -10,4 +10,6 @@ Repository for students of PVA_1
 
 [Palindrome number](https://leetcode.com/problems/palindrome-number/)
 
-[Pascal's triangle](https://leetcode.com/problems/pascals-triangle/)
+[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+
+[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
