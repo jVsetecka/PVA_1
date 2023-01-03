@@ -17,3 +17,7 @@ Repository for students of PVA_1
 [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
 
 [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)
+
+[Kth Largest Element in an Array*](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)
+
+[Add Strings](https://leetcode.com/problems/add-strings/description//)
