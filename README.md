@@ -11,7 +11,8 @@ Repository for students of PVA_1
 
 [Palindrome number](https://leetcode.com/problems/palindrome-number/)
 
-#### Arrays
+#### Arrays lvl. 1
+
 [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 
 [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
@@ -27,6 +28,8 @@ Repository for students of PVA_1
 [Missing number](https://leetcode.com/problems/missing-number/)
 
 [Intersaction of two arrrays](https://leetcode.com/problems/intersection-of-two-arrays/)
+
+#### Arrays lvl. 3
 
 [*Minimize Maximum Pair Sum in Array*](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/)
 
