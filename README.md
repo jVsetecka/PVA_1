@@ -35,7 +35,7 @@ Repository for students of PVA_1
 
 [*K Closest Point to Origin*](https://leetcode.com/problems/k-closest-points-to-origin/)
 
-#### Hard
+#### Arrays lvl. 99
 
 [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)
 
