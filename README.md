@@ -34,3 +34,11 @@ Repository for students of PVA_1
 [*Minimize Maximum Pair Sum in Array*](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/)
 
 [*K Closest Point to Origin*](https://leetcode.com/problems/k-closest-points-to-origin/)
+
+#### Hard
+
+[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)
+
+[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)
+
+[Maximum Gap](https://leetcode.com/problems/maximum-gap/)
