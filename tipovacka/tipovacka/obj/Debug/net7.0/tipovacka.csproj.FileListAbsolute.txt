@@ -1,0 +1,15 @@
+/Users/jvsetecka/Desktop/tipovacka/tipovacka/bin/Debug/net7.0/tipovacka
+/Users/jvsetecka/Desktop/tipovacka/tipovacka/bin/Debug/net7.0/tipovacka.deps.json
+/Users/jvsetecka/Desktop/tipovacka/tipovacka/bin/Debug/net7.0/tipovacka.runtimeconfig.json
+/Users/jvsetecka/Desktop/tipovacka/tipovacka/bin/Debug/net7.0/tipovacka.dll
+/Users/jvsetecka/Desktop/tipovacka/tipovacka/bin/Debug/net7.0/tipovacka.pdb
+/Users/jvsetecka/Desktop/tipovacka/tipovacka/obj/Debug/net7.0/tipovacka.csproj.AssemblyReference.cache
+/Users/jvsetecka/Desktop/tipovacka/tipovacka/obj/Debug/net7.0/tipovacka.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jvsetecka/Desktop/tipovacka/tipovacka/obj/Debug/net7.0/tipovacka.AssemblyInfoInputs.cache
+/Users/jvsetecka/Desktop/tipovacka/tipovacka/obj/Debug/net7.0/tipovacka.AssemblyInfo.cs
+/Users/jvsetecka/Desktop/tipovacka/tipovacka/obj/Debug/net7.0/tipovacka.csproj.CoreCompileInputs.cache
+/Users/jvsetecka/Desktop/tipovacka/tipovacka/obj/Debug/net7.0/tipovacka.dll
+/Users/jvsetecka/Desktop/tipovacka/tipovacka/obj/Debug/net7.0/refint/tipovacka.dll
+/Users/jvsetecka/Desktop/tipovacka/tipovacka/obj/Debug/net7.0/tipovacka.pdb
+/Users/jvsetecka/Desktop/tipovacka/tipovacka/obj/Debug/net7.0/tipovacka.genruntimeconfig.cache
+/Users/jvsetecka/Desktop/tipovacka/tipovacka/obj/Debug/net7.0/ref/tipovacka.dll
