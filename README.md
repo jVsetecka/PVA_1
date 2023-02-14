@@ -2,6 +2,11 @@
 
 Repository for students of PVA_1
 
+### Analýza pololetního projektu
+1. Název projektu
+2. Cíl projektu
+3. Zvolené technologie, předpokládaná náročnost
+
 ### Useful links
 [leetcode.com](https://leetcode.com/)
 
