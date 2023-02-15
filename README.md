@@ -7,6 +7,8 @@ Repository for students of PVA_1
 2. Cíl projektu
 3. Zvolené technologie, předpokládaná náročnost
 
+*Výslednou analýzu je potřeba pushnout na vytvořený repozitář a poslat invite na účet jVsetecka*
+
 ### Useful links
 [leetcode.com](https://leetcode.com/)
 
