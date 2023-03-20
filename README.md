@@ -1,7 +1,7 @@
 # PVA_1
 
-## Pololetní projekt [COUNTDOWN](https://jvsetecka.github.io/PVA_1/countdown.html)
-### Datum odevzdání 7.5.2023 ve 23:59
+## Pololetní projekt 
+### [Datum odevzdání 7.5.2023 ve 23:59](https://jvsetecka.github.io/PVA_1/countdown.html)
 
 | Část | Počet bodů (Minimální počet bodů) |
 |--|--|
