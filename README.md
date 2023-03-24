@@ -1,5 +1,7 @@
 # PVA_1
 
+**!!!Všichni kdo neměli známku za toto čtvrtletí dostali výchozí 4, tuto známku si samozřejmě můžou opravit2!!!**
+
 ## Pololetní projekt 
 ### [Datum odevzdání 7.5.2023 ve 23:59](https://jvsetecka.github.io/PVA_1/countdown.html)
 
