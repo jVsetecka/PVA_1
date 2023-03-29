@@ -46,6 +46,10 @@ Zde má každý volnou ruku, ale snažíte se celý projekt co nejlépe prodat. 
 
 -------------------------------------
 
+![aitools](https://user-images.githubusercontent.com/43730879/228447948-05e7b9a9-1886-4e63-965d-ea0510375a2b.jpeg)
+
+-------------------------------------
+
 ### Useful links
 [leetcode.com](https://leetcode.com/)
 
